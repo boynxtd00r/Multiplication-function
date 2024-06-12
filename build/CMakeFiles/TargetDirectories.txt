@@ -1,0 +1,3 @@
+/home/boynxtd00r/multiplication-function/build/CMakeFiles/test_multiplication.dir
+/home/boynxtd00r/multiplication-function/build/CMakeFiles/edit_cache.dir
+/home/boynxtd00r/multiplication-function/build/CMakeFiles/rebuild_cache.dir
